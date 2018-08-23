@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">day100</string>
+    <string name="home">首页</string>
+    <string name="designer">设计师</string>
+    <string name="liebiao">列表</string>
+</resources>
